@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Component/Component.iml" filepath="$PROJECT_DIR$/Component/Component.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstructFactory/abstructFactory.iml" filepath="$PROJECT_DIR$/abstructFactory/abstructFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridging/bridging.iml" filepath="$PROJECT_DIR$/bridging/bridging.iml" />
       <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/designer_mode.iml" filepath="$PROJECT_DIR$/.idea/designer_mode.iml" />
       <module fileurl="file://$PROJECT_DIR$/factoryMethod/factoryMethod.iml" filepath="$PROJECT_DIR$/factoryMethod/factoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/originMode/originMode.iml" filepath="$PROJECT_DIR$/originMode/originMode.iml" />

@@ -12,7 +12,6 @@ import square.SquarePeg;
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Round fits round, no surprise.
         RoundHole hole = new RoundHole(5);
         RoundPeg rpeg = new RoundPeg(5);
         if (hole.fits(rpeg)) {
@@ -21,7 +20,7 @@ public class Main {
 
         SquarePeg smallSqPeg = new SquarePeg(2);
         SquarePeg largeSqPeg = new SquarePeg(20);
-        // hole.fits(smallSqPeg); // Won't compile.
+//         hole.fits(smallSqPeg); // Won't compile.
 
         // Adapter solves the problem.
         SquarePegAdapter smallSqPegAdapter = new SquarePegAdapter(smallSqPeg);
