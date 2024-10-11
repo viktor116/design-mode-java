@@ -19,8 +19,8 @@ public class Demo {
         System.out.println("- Input ----------------");
         System.out.println(salaryRecords);
         System.out.println("- Encoded --------------");
-        System.out.println(plain.readData());
+        System.out.println(plain.readData()); // 这里读取的是加密后的数据
         System.out.println("- Decoded --------------");
-        System.out.println(encoded.readData());
+        System.out.println(encoded.readData()); // 装饰器链中的装饰器会依次调用，最终读取到加密后的数据并解密
     }
 }
