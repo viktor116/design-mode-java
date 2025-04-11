@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/COF/COF.iml" filepath="$PROJECT_DIR$/COF/COF.iml" />
       <module fileurl="file://$PROJECT_DIR$/Component/Component.iml" filepath="$PROJECT_DIR$/Component/Component.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listener/Listener.iml" filepath="$PROJECT_DIR$/Listener/Listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/Snapshot/Snapshot.iml" filepath="$PROJECT_DIR$/Snapshot/Snapshot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstructFactory/abstructFactory.iml" filepath="$PROJECT_DIR$/abstructFactory/abstructFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/bridging/bridging.iml" filepath="$PROJECT_DIR$/bridging/bridging.iml" />
@@ -20,6 +22,9 @@
       <module fileurl="file://$PROJECT_DIR$/originMode/originMode.iml" filepath="$PROJECT_DIR$/originMode/originMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxyMode/proxyMode.iml" filepath="$PROJECT_DIR$/proxyMode/proxyMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategies/strategies.iml" filepath="$PROJECT_DIR$/strategies/strategies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templateMethod/templateMethod.iml" filepath="$PROJECT_DIR$/templateMethod/templateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visitor/visitor.iml" filepath="$PROJECT_DIR$/visitor/visitor.iml" />
     </modules>
   </component>
 </project>
